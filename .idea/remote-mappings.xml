@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://qxiao@megamind.win.tue.nl:22/home/qxiao/.conda/envs/env_set_py36/bin/python3">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$/../../../codes/SET-MLP-Sparse-Python-Data-Structures" remote-root="/home/qxiao/codes/Tutorial-SCADS-Summer-School-2020-Scalable-Deep-Learning-master" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
