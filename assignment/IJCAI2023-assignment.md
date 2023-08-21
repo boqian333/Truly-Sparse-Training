@@ -58,7 +58,7 @@ with your specific data path in 'set_mlp_seg.py'.
 
 - **The learning curve for the given data**
 
-![image info](./Image/learning curve.png)
+![image info](./Image/learning_curve.png)
 
 
 - **The visualization of segmentation**
