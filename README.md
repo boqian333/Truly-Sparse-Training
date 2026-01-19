@@ -1,6 +1,6 @@
-# [AAAI 2026 Tutorial] Sparse Training for Supervised, Unsupervised, Continual, and Deep Reinforcement Learning with Deep Neural Networks
+# [AAAI 2026 Tutorial] TH01: A Decade of Sparse Training: Why Do We Still Stick to Dense Training?
 
-Code associated with the IJCAI 2023 tutorial: _Sparse Training for Supervised, Unsupervised, Continual, and Deep Reinforcement Learning with Deep Neural Networks_. 
+Code associated with the AAAI 2026 tutorial: TH01: A Decade of Sparse Training: Why Do We Still Stick to Dense Training?
 
 * The code is based on [Implementation 2](https://github.com/dcmocanu/sparse-evolutionary-artificial-neural-networks/tree/master/SET-MLP-Sparse-Python-Data-Structures) of SET-MLP to which Dropout is added.
 * In the "Results" folder there are the results for the implementation.    
