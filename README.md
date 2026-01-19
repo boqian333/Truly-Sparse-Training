@@ -1,4 +1,4 @@
-# [IJCAI 2023 Tutorial] Sparse Training for Supervised, Unsupervised, Continual, and Deep Reinforcement Learning with Deep Neural Networks
+# [AAAI 2026 Tutorial] Sparse Training for Supervised, Unsupervised, Continual, and Deep Reinforcement Learning with Deep Neural Networks
 
 Code associated with the IJCAI 2023 tutorial: _Sparse Training for Supervised, Unsupervised, Continual, and Deep Reinforcement Learning with Deep Neural Networks_. 
 
