@@ -3,7 +3,7 @@
 -------------------------------
 
 #### Assignment 
-**Elena Mocanu** 1, **Decebal Mocanu**  2 , **Boqian Wu** 1, **Qiao Xiao** 3
+**Elena Mocanu** 1, **Decebal Mocanu**  2 , **Boqian Wu** 1 2, **Qiao Xiao** 3
 
 1 Faculty of Electrical Engineering, Mathematics and Computer Science, University of Twente, Enschede, 7522NB, the Netherlands  
 2 Department of Computer Science, University of Luxembourg, Luxembourg  
