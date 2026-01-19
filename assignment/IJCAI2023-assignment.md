@@ -1,6 +1,5 @@
-# IJCAI 2023 -- toturial
-### Sparse Training for Supervised, Unsupervised, Continual, and Deep Reinforcement Learning with Deep Neural Networks
-
+# AAAI 2026 -- toturial
+### TH01: A Decade of Sparse Training: Why Do We Still Stick to Dense Training?
 -------------------------------
 
 #### Assignment 
